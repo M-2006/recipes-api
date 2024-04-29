@@ -1,0 +1,985 @@
+[
+    {
+        "id": 1,
+        "RecepieName": "Cheesecake",
+        "Ingredients": [
+            "2 cups graham cracker crumbs",
+            "1/2 cup unsalted butter, melted",
+            "24 oz cream cheese, softened",
+            "1 cup sugar",
+            "1 tsp vanilla extract",
+            "4 large eggs",
+            "1 cup sour cream",
+            "1/4 cup all-purpose flour"
+        ]
+    },
+    {
+        "id": 2,
+        "RecepieName": "Gluten-Free Chocolate Cake",
+        "Ingredients":[
+            "1 3/4 cups gluten-free all-purpose flour blend",
+            "1 cup granulated sugar",
+            "3/4 cup unsweetened cocoa powder",
+            "1 1/2 teaspoons baking powder",
+            "1 1/2 teaspoons baking soda",
+            "1 teaspoon salt",
+            "2 large eggs",
+            "1 cup milk",
+            "1/2 cup vegetable oil",
+            "2 teaspoons vanilla extract",
+            "1 cup boiling water",
+            "Chocolate frosting (optional)"
+        ]
+    },
+    {
+        "id": 3,
+        "RecepieName": "Grilled Cheese Sandwich",
+        "Ingredients":[
+            "2 slices of bread",
+            "2 slices of cheese (such as cheddar or American)",
+            "1-2 tablespoons of butter"
+        ]
+    },
+    {
+        "id": 4,
+        "RecepieName": "Zucchini Noodles with Pesto",
+        "Ingredients":[
+            "2-3 medium zucchinis",
+            "1/2 cup basil pesto",
+            "1 tablespoon olive oil",
+            "Salt and pepper to taste",
+            "Grated Parmesan cheese (optional)",
+            "Fresh basil leaves for garnish (optional)"
+        ]
+    },
+    {
+        "id": 5,
+        "RecepieName": "Cranberry Orange Bread",
+        "Ingredients":[
+            "2 cups all-purpose flour",
+            "1 cup sugar",
+            "1 1/2 teaspoons baking powder",
+            "1/2 teaspoon baking soda",
+            "1/2 teaspoon salt",
+            "3/4 cup orange juice",
+            "3/4 cup orange juice",
+            "1 tablespoon grated orange zest",
+            "1 egg, beaten",
+            "1 1/2 cups fresh or frozen cranberries, coarsely chopped",
+            "1/2 cup chopped nuts (optional)"
+        ]
+    },
+    {
+        "id": 6,
+        "RecepieName": "Apple Pie",
+        "Ingredients":[
+            "6 cups peeled, cored, and sliced apples",
+            "3/4 cup white sugar",
+            "1 teaspoon ground cinnamon",
+            "1/4 teaspoon ground nutmeg",
+            "1/4 teaspoon salt",
+            "1 tablespoon cornstarch",
+            "1 tablespoon lemon juice",
+            "1 recipe pastry for a 9-inch double crust pie"
+        ]
+    },
+    {
+        "id": 7,
+        "RecepieName": "Chicken Alfredo Pasta",
+        "Ingredients":[
+            "8 oz fettuccine pasta",
+            "1/2 cup unsalted butter",
+            "2 cloves garlic, minced",
+            "1 cup heavy cream",
+            "1 cup grated Parmesan cheese",
+            "1/4 cup chopped fresh parsley",
+            "Salt and pepper to taste",
+            "2 cups cooked chicken breast, sliced"
+        ]
+    },
+    {
+        "id": 8,
+        "RecepieName": "Caesar Salad",
+        "Ingredients":[
+            "1 head romaine lettuce, torn into bite-size pieces",
+            "1/2 cup Caesar salad dressing",
+            "1/4 cup grated Parmesan cheese",
+            "1 cup croutons"
+        ]
+    },
+    {
+        "id": 9,
+        "RecepieName": "Spaghetti Carbonara",
+        "Ingredients":[
+            "8 oz spaghetti",
+            "4 oz pancetta or bacon, diced",
+            "2 cloves garlic, minced",
+            "2 large eggs",
+            "1 cup grated Pecorino Romano cheese",
+            "Salt and pepper to taste",
+            "Chopped parsley for garnish"
+        ]
+    },
+    {
+        "id": 10,
+        "RecepieName": "Beef Stir-Fry",
+        "Ingredients":[
+            "1 lb flank steak, thinly sliced",
+            "2 tablespoons soy sauce",
+            "1 tablespoon oyster sauce",
+            "1 tablespoon hoisin sauce",
+            "1 tablespoon cornstarch",
+            "2 tablespoons vegetable oil",
+            "1 onion, sliced",
+            "1 bell pepper, sliced",
+            "1 cup broccoli florets"
+        ]
+    },
+    {
+        "id": 11,
+        "RecepieName": "Chocolate Chip Cookies",
+        "Ingredients":[
+            "1 cup unsalted butter, softened",
+            "1 cup white sugar",
+            "1 cup packed brown sugar",
+            "2 large eggs",
+            "1 teaspoon vanilla extract",
+            "3 cups all-purpose flour",
+            "1 teaspoon baking soda",
+            "2 teaspoons hot water",
+            "1/2 teaspoon salt",
+            "2 cups semisweet chocolate chips"
+        ]
+    },
+    {
+        "id": 12,
+        "RecepieName": "Tacos",
+        "Ingredients":[
+            "1 lb ground beef",
+            "1 packet taco seasoning mix",
+            "1/2 cup water",
+            "8 taco shells",
+            "1 cup shredded lettuce",
+            "1 cup shredded cheddar cheese",
+            "1/2 cup diced tomatoes",
+            "1/4 cup diced onions",
+            "1/4 cup sour cream"
+        ]
+    },
+    {
+        "id": 13,
+        "RecepieName": "Chocolate Chip Cookies",
+        "Ingredients":[
+            "1 cup butter, softened",
+            "1 cup white sugar",
+            "1 cup packed brown sugar",
+            "2 eggs",
+            "2 teaspoons vanilla extract",
+            "3 cups all-purpose flour",
+            "1 teaspoon baking soda",
+            "2 teaspoons hot water",
+            "1/2 teaspoon salt",
+            "2 cups semisweet chocolate chips",
+            "1 cup chopped walnuts (optional)"
+        ]
+    },
+    {
+        "id": 14,
+        "RecepieName": "Apple Pie",
+        "Ingredients":[
+            "1 recipe pastry for a 9-inch double crust pie",
+            "1/2 cup unsalted butter",
+            "3 tablespoons all-purpose flour",
+            "1/4 cup water",
+            "1/2 cup white sugar",
+            "1/2 cup packed brown sugar",
+            "8 Granny Smith apples - peeled, cored and sliced"
+        ]
+    },
+    {
+        "id": 15,
+        "RecepieName": "Cheesecake",
+        "Ingredients":[
+            "1 3/4 cups graham cracker crumbs",
+            "1/4 cup white sugar",
+            "1/2 cup butter, melted",
+            "3 (8 ounce) packages cream cheese",
+            "1 cup white sugar",
+            "1 teaspoon vanilla extract",
+            "4 large eggs",
+            "1/4 cup all-purpose flour",
+            "1/4 cup milk"
+        ]
+    },
+    {
+        "id": 16,
+        "RecepieName": "Chocolate Cake",
+        "Ingredients":[
+            "1 3/4 cups all-purpose flour",
+            "2 cups white sugar",
+            "3/4 cup unsweetened cocoa powder",
+            "2 teaspoons baking soda",
+            "1 teaspoon baking powder",
+            "1 teaspoon salt",
+            "2 eggs",
+            "1 cup strong brewed coffee",
+            "1 cup buttermilk",
+            "1/2 cup vegetable oil",
+            "1 teaspoon vanilla extract"
+        ]
+    },
+    {
+        "id": 17,
+        "RecepieName": "Vanilla Cupcakes",
+        "Ingredients":[
+            "1 1/2 cups all-purpose flour",
+            "1 1/2 teaspoons baking powder",
+            "1/4 teaspoon salt",
+            "1/2 cup unsalted butter, softened",
+            "1 cup sugar",
+            "2 large eggs",
+            "2 teaspoons vanilla extract",
+            "1/2 cup milk"
+        ]
+    },
+    {
+        "id": 18,
+        "RecepieName": "Banana Bread",
+        "Ingredients":[
+            "2 cups all-purpose flour",
+            "1 teaspoon baking soda",
+            "1/4 teaspoon salt",
+            "1/2 cup butter",
+            "3/4 cup brown sugar",
+            "2 eggs, beaten",
+            "2 1/3 cups mashed overripe bananas",
+            "Optional: 1/2 cup chopped walnuts"
+        ]
+    },
+    {
+        "id": 19,
+        "RecepieName": "Pumpkin Pie",
+        "Ingredients":[
+            "1 (15 ounce) can pumpkin",
+            "1 (14 ounce) can sweetened condensed milk",
+            "2 large eggs",
+            "1 teaspoon ground cinnamon",
+            "1/2 teaspoon ground ginger",
+            "1/2 teaspoon ground nutmeg",
+            "1/2 teaspoon salt",
+            "1 (9 inch) unbaked pie crust"
+        ]
+    },
+    {
+        "id": 20,
+        "RecepieName": "Caesar Salad",
+        "Ingredients":[
+            "1 head romaine lettuce, torn into bite-size pieces",
+            "1/2 cup Caesar salad dressing",
+            "1/4 cup grated Parmesan cheese",
+            "1 cup croutons"
+        ]
+    },
+    {
+        "id": 21,
+        "RecepieName": "Lemon Bars",
+        "Ingredients":[
+            "1 cup butter, softened",
+            "1/2 cup white sugar",
+            "2 cups all-purpose flour",
+            "4 eggs",
+            "1 1/2 cups white sugar",
+            "1/4 cup all-purpose flour",
+            "2 lemons, juiced",
+            "Confectioners' sugar for dusting"
+        ]
+    },
+    {
+        "id": 22,
+        "RecepieName": "Red Velvet Cupcakes",
+        "Ingredients":[
+            "1/2 cup butter",
+            "1 1/2 cups white sugar",
+            "2 eggs",
+            "1 cup buttermilk",
+            "1 fluid ounce red food coloring",
+            "1 teaspoon vanilla extract",
+            "1 1/2 teaspoons baking soda",
+            "1 tablespoon distilled white vinegar",
+            "2 cups all-purpose flour",
+            "1/3 cup unsweetened cocoa powder",
+            "1 teaspoon salt"
+        ]
+    },
+    {
+        "id": 23,
+        "RecepieName": "Blueberry Muffins",
+        "Ingredients":[
+            "1 1/2 cups all-purpose flour",
+            "3/4 cup white sugar",
+            "1/2 teaspoon salt",
+            "2 teaspoons baking powder",
+            "1/3 cup vegetable oil",
+            "1 egg",
+            "1/3 cup milk",
+            "1 cup fresh blueberries",
+            "1/2 cup white sugar",
+            "1/3 cup all-purpose flour",
+            "1/4 cup butter, cubed",
+            "1 1/2 teaspoons ground cinnamon"
+        ]
+    },
+    {
+        "id": 24,
+        "RecepieName": "Strawberry Shortcake",
+        "Ingredients":[
+            "2 1/4 cups all-purpose flour",
+            "4 teaspoons baking powder",
+            "2 tablespoons white sugar",
+            "1/4 teaspoon salt",
+            "1/3 cup shortening",
+            "1 egg",
+            "2/3 cup milk",
+            "2 cups sliced fresh strawberries",
+            "1/4 cup white sugar",
+            "2 cups whipped cream"
+        ]
+    },
+    {
+        "id": 25,
+        "RecepieName": "Classic Grilled Cheese Sandwich",
+        "Ingredients":[
+            "Bread",
+            "Butter",
+            "Cheese"
+        ]
+    },
+    {
+        "id": 26,
+        "RecepieName": "Pasta Aglio e Olio",
+        "Ingredients":[
+            "Spaghetti",
+            "Garlic",
+            "Olive oil",
+            "Red pepper flakes",
+            "Parsley",
+            "Parmesan cheese"
+        ]
+    },
+    {
+        "id": 27,
+        "RecepieName": "Avocado Toast",
+        "Ingredients":[
+            "Bread",
+            "Avocado",
+            "Salt",
+            "Pepper",
+            "Optional toppings: tomatoes, eggs, bacon"
+        ]
+    },
+    {
+        "id": 28,
+        "RecepieName": "Caprese Salad",
+        "Ingredients":[
+            "Tomatoes",
+            "Fresh mozzarella cheese",
+            "Basil leaves",
+            "Olive oil",
+            "Balsamic glaze",
+            "Salt",
+            "Pepper"
+        ]
+    },
+    {
+        "id": 29,
+        "RecepieName": "Greek Yogurt Parfait",
+        "Ingredients":[
+            "Greek yogurt",
+            "Honey",
+            "Granola",
+            "Berries"
+        ]
+    },
+    {
+        "id": 30,
+        "RecepieName": "Microwave Mug Omelette",
+        "Ingredients":[
+            "Eggs",
+            "Milk",
+            "Salt",
+            "Pepper",
+            "Optional fillings: cheese, vegetables, ham"
+        ]
+    },
+    {
+        "id": 31,
+        "RecepieName": "Peanut Butter Banana Smoothie",
+        "Ingredients":[
+            "Banana",
+            "Peanut butter",
+            "Milk",
+            "Ice cubes"
+        ]
+    },
+    {
+        "id": 32,
+        "RecepieName": "Cucumber Tomato Salad",
+        "Ingredients":[
+            "Cucumber",
+            "Tomatoes",
+            "Red onion",
+            "Olive oil",
+            "Red wine vinegar",
+            "Salt",
+            "Pepper",
+            "Optional: feta cheese, olives"
+        ]
+    },
+    {
+        "id": 33,
+        "RecepieName": "Hummus and Veggie Wrap",
+        "Ingredients":[
+            "Tortilla",
+            "Hummus",
+            "Spinach",
+            "Bell peppers",
+            "Cucumber",
+            "Carrots"
+        ]
+    },
+    {
+        "id": 34,
+        "RecepieName": "Mediterranean Chickpea Salad",
+        "Ingredients":[
+            "Chickpeas",
+            "Cucumber",
+            "Tomatoes",
+            "Red onion",
+            "Kalamata olives",
+            "Feta cheese",
+            "Olive oil",
+            "Lemon juice",
+            "Garlic",
+            "Oregano",
+            "Salt",
+            "Pepper"
+        ]
+    },
+    {
+        "id": 35,
+        "RecepieName": "Apple and Peanut Butter Sandwich",
+        "Ingredients":[
+            "Apples",
+            "Peanut butter",
+            "Optional: honey, granola, raisins"
+        ]
+    },
+    {
+        "id": 36,
+        "RecepieName": "Rice Cake with Almond Butter and Banana",
+        "Ingredients":[
+            "Rice cakes",
+            "Almond butter",
+            "Banana slices"
+        ]
+    },
+    {
+        "id": 37,
+        "RecepieName": "Pumpkin Soup",
+        "Ingredients":[
+            "Pumpkin",
+            "Onion",
+            "Garlic",
+            "Vegetable broth",
+            "Coconut milk",
+            "Cumin",
+            "Cinnamon",
+            "Nutmeg",
+            "Salt",
+            "Pepper"
+        ]
+    },
+    {
+        "id": 38,
+        "RecepieName": "Apple Crisp",
+        "Ingredients":[
+            "Apples",
+            "Flour",
+            "Oats",
+            "Brown sugar",
+            "Cinnamon",
+            "Butter"
+        ]
+    },
+    {
+        "id": 39,
+        "RecepieName": "Butternut Squash Risotto",
+        "Ingredients":[
+            "Butternut squash",
+            "Arborio rice",
+            "Onion",
+            "Garlic",
+            "Vegetable broth",
+            "White wine",
+            "Butter",
+            "Parmesan cheese",
+            "Sage",
+            "Salt",
+            "Pepper"
+        ]
+    },
+    {
+        "id": 40,
+        "RecepieName": "Roasted Brussels Sprouts",
+        "Ingredients":[
+            "Brussels sprouts",
+            "Olive oil",
+            "Balsamic vinegar",
+            "Garlic powder",
+            "Salt",
+            "Pepper"
+        ]
+    },
+    {
+        "id": 41,
+        "RecepieName": "Cranberry Sauce",
+        "Ingredients":[
+            "Fresh cranberries",
+            "Orange juice",
+            "Sugar",
+            "Cinnamon"
+        ]
+    },
+    {
+        "id": 42,
+        "RecepieName": "Sweet Potato Casserole",
+        "Ingredients":[
+            "Sweet potatoes",
+            "Brown sugar",
+            "Butter",
+            "Milk",
+            "Vanilla extract",
+            "Eggs",
+            "Flour",
+            "Pecans",
+            "Marshmallows"
+        ]
+    },
+    {
+        "id": 43,
+        "RecepieName": "Caramel Apple Pie",
+        "Ingredients":[
+            "Apples",
+            "Caramel sauce",
+            "Flour",
+            "Sugar",
+            "Cinnamon",
+            "Butter",
+            "Pie crust"
+        ]
+    },
+    {
+        "id": 44,
+        "RecepieName": "Pumpkin Bread",
+        "Ingredients":[
+            "Flour",
+            "Baking soda",
+            "Baking powder",
+            "Salt",
+            "Cinnamon",
+            "Nutmeg",
+            "Cloves",
+            "Pumpkin puree",
+            "Sugar",
+            "Vegetable oil",
+            "Eggs"
+        ]
+    },
+    {
+        "id": 45,
+        "RecepieName": "Maple Glazed Carrots",
+        "Ingredients":[
+            "Carrots",
+            "Maple syrup",
+            "Butter",
+            "Salt",
+            "Pepper"
+        ]
+    },
+    {
+        "id": 46,
+        "RecepieName": "Pear and Walnut Salad",
+        "Ingredients":[
+            "Pears",
+            "Walnuts",
+            "Greens (e.g., arugula, spinach)",
+            "Blue cheese",
+            "Balsamic vinaigrette"
+        ]
+    },
+    {
+        "id": 47,
+        "RecepieName": "Acorn Squash with Brown Sugar",
+        "Ingredients":[
+            "Acorn squash",
+            "Brown sugar",
+            "Butter",
+            "Cinnamon",
+            "Nutmeg",
+            "Salt",
+            "Pepper"
+        ]
+    },
+    {
+        "id": 48,
+        "RecepieName": "Cinnamon Apple Chips",
+        "Ingredients":[
+            "Apples",
+            "Cinnamon",
+            "Sugar"
+        ]
+    },
+    {
+        "id": 49,
+        "RecepieName": "Quinoa Salad",
+        "Ingredients":[
+            "Quinoa",
+            "Cucumber",
+            "Tomatoes",
+            "Red onion",
+            "Bell peppers",
+            "Black beans",
+            "Corn",
+            "Cilantro",
+            "Lime juice",
+            "Olive oil",
+            "Salt",
+            "Pepper"
+        ]
+    },
+    {
+        "id": 50,
+        "RecepieName": "Baked Salmon",
+        "Ingredients":[
+            "Salmon fillets",
+            "Garlic",
+            "Lemon",
+            "Olive oil",
+            "Herbs (such as dill, parsley, or thyme)",
+            "Salt",
+            "Pepper"
+        ]
+    },
+    {
+        "id": 51,
+        "RecepieName": "Greek Yogurt Chicken Salad",
+        "Ingredients":[
+            "Chicken breast",
+            "Greek yogurt",
+            "Celery",
+            "Green onions",
+            "Grapes",
+            "Almonds",
+            "Lemon juice",
+            "Dijon mustard",
+            "Salt",
+            "Pepper"
+        ]
+    },
+    {
+        "id": 52,
+        "RecepieName": "Vegetable Stir-Fry",
+        "Ingredients":[
+            "Assorted vegetables (such as bell peppers, broccoli, carrots, and snap peas)",
+            "Garlic",
+            "Ginger",
+            "Soy sauce",
+            "Sesame oil",
+            "Rice viegar",
+            "Honey",
+            "Sesame seeds"
+        ]
+    },
+    {
+        "id": 53,
+        "RecepieName": "Turkey and Vegetable Skewers",
+        "Ingredients":[
+            "Ground turkey",
+            "Zucchini",
+            "Bell peppers",
+            "Red onion",
+            "Olive oil",
+            "Garlic powder",
+            "Paprika",
+            "Salt",
+            "Pepper"
+        ]
+    },
+    {
+        "id": 54,
+        "RecepieName": "Eggplant Parmesan",
+        "Ingredients":[
+            "Eggplant",
+            "Whole wheat breadcrumbs",
+            "Egg whites",
+            "Marinara sauce",
+            "Low-fat mozzarella cheese",
+            "Parmesan cheese"
+        ]
+    },
+    {
+        "id": 55,
+        "RecepieName": "Black Bean and Sweet Potato Tacos",
+        "Ingredients":[
+            "Black beans",
+            "Sweet potatoes",
+            "Onion",
+            "Garlic",
+            "Onion",
+            "Cumin",
+            "Chili powder",
+            "Cayenne pepper",
+            "Tortillas",
+            "Optional toppings: avocado, salsa, cilantro"
+        ]
+    },
+    {
+        "id": 56,
+        "RecepieName": "Mediterranean Stuffed Peppers",
+        "Ingredients":[
+            "Bell peppers",
+            "Quinoa",
+            "Chickpeas",
+            "Tomatoes",
+            "Olives",
+            "Feta cheese",
+            "Onion",
+            "Garlic",
+            "Olive oil",
+            "Herbs (such as oregano, basil, or parsley)",
+            "Salt",
+            "Pepper"
+        ]
+    },
+    {
+        "id": 57,
+        "RecepieName": "Green Smoothie",
+        "Ingredients":[
+            "Tuna Salad Lettuce Wraps",
+            "Greek yogurt",
+            "Celery",
+            "Red onion",
+            "Mustard",
+            "Lemon juice",
+            "Salt",
+            "Pepper",
+            "Lettuce leaves"
+        ]
+    },
+    {
+        "id": 58,
+        "RecepieName": "Whole Wheat Veggie Pizza",
+        "Ingredients":[
+            "Whole wheat pizza dough",
+            "Tomato sauce",
+            "Assorted vegetables (such as bell peppers, mushrooms, and onions)",
+            "Low-fat mozzarella cheese",
+            "Herbs (such as basil and oregano)",
+            "Optional: lean protein such as grilled chicken or turkey sausage"
+        ]
+    },
+    {
+        "id": 59,
+        "RecepieName": "Oatmeal with Berries and Almonds",
+        "Ingredients":[
+            "Old-fashioned oats",
+            "Almond milk",
+            "Berries (such as strawberries, blueberries, or raspberries)",
+            "Almonds",
+            "Honey or maple syrup"
+        ]
+    },
+    {
+        "id": 60,
+        "RecepieName": "Gluten-Free Pancakes",
+        "Ingredients":[
+            "Gluten-free flour blend",
+            "Eggs",
+            "Milk or dairy-free alternative",
+            "Butter or oil",
+            "Sugar",
+            "Baking powder",
+            "Salt"
+        ]
+    },
+    {
+        "id": 61,
+        "RecepieName": "Zucchini Noodles with Pesto",
+        "Ingredients":[
+            "Zucchini",
+            "Garlic",
+            "Basil",
+            "Pine nuts",
+            "Olive oil",
+            "Lemon juice",
+            "Salt",
+            "Pepper",
+            "Optional: Parmesan cheese"
+        ]
+    },
+    {
+        "id": 62,
+        "RecepieName": "Gluten-Free Banana Bread",
+        "Ingredients":[
+            "Gluten-free flour blend",
+            "Bananas",
+            "Eggs",
+            "Butter or oil",
+            "Sugar",
+            "Baking soda",
+            "Salt",
+            "Cinnamon",
+            "Optional: nuts, chocolate chips"
+        ]
+    },
+    {
+        "id": 63,
+        "RecepieName": "Quinoa Stuffed Bell Peppers",
+        "Ingredients":[
+            "Bell peppers",
+            "Quinoa",
+            "Black beans",
+            "Corn",
+            "Tomatoes",
+            "Onion",
+            "Garlic",
+            "Cumin",
+            "Chili powder",
+            "Optional: cheese, cilantro"
+        ]
+    },
+    {
+        "id": 64,
+        "RecepieName": "Gluten-Free Chicken Tenders",
+        "Ingredients":[
+            "Chicken breast",
+            "Gluten-free breadcrumbs",
+            "Parmesan cheese",
+            "Garlic powder",
+            "Paprika",
+            "Salt",
+            "Pepper",
+            "Butter or oil"
+        ]
+    },
+    {
+        "id": 65,
+        "RecepieName": "Cauliflower Crust Pizza",
+        "Ingredients":[
+            "Cauliflower",
+            "Gluten-free flour",
+            "Eggs",
+            "Herbs (such as basil and oregano)",
+            "Salt",
+            "Tomato sauce",
+            "Assorted toppings (such as cheese, vegetables, meats)"
+        ]
+    },
+    {
+        "id": 66,
+        "RecepieName": "Gluten-Free Pasta Salad",
+        "Ingredients":[
+            "Gluten-free pasta",
+            "Cherry tomatoes",
+            "Cucumbers",
+            "Olives",
+            "Feta cheese",
+            "Red onion",
+            "Italian dressing",
+            "Salt",
+            "Pepper"
+        ]
+    },
+    {
+        "id": 67,
+        "RecepieName": "Coconut Flour Banana Muffins",
+        "Ingredients":[
+            "Coconut flour",
+            "Bananas",
+            "Eggs",
+            "Coconut oil",
+            "Honey or maple syrup",
+            "Baking soda",
+            "Vanilla extract",
+            "Cinnamon",
+            "Salt"
+        ]
+    },
+    {
+        "id": 68,
+        "RecepieName": "Gluten-Free Teriyaki Chicken",
+        "Ingredients":[
+            "Chicken thighs",
+            "Gluten-free soy sauce or tamari",
+            "Honey",
+            "Garlic",
+            "Ginger",
+            "Cornstarch",
+            "Green onions",
+            "Sesame seeds",
+            "Rice or quinoa, for serving"
+        ]
+    },
+    {
+        "id": 69,
+        "RecepieName": "Vegetable Quinoa Soup",
+        "Ingredients":[
+            "Quinoa",
+            "Carrots",
+            "Celery",
+            "Onion",
+            "Garlic",
+            "Vegetable broth",
+            "Tomatoes",
+            "Green beans",
+            "Spinach",
+            "Herbs (such as thyme, bay leaves)",
+            "Salt",
+            "Pepper"
+        ]
+    },
+    {
+        "id": 70,
+        "RecepieName": "Gluten-Free Chocolate Chip Cookies",
+        "Ingredients":[
+            "Almond flour",
+            "Coconut sugar",
+            "Baking soda",
+            "Salt",
+            "Butter or coconut oil",
+            "Egg",
+            "Vanilla extract",
+            "Chocolate chips"
+        ]
+    },
+    {
+        "id": 71,
+        "RecepieName": "Stuffed Acorn Squash",
+        "Ingredients":[
+            "Acorn squash",
+            "Quinoa",
+            "Kale",
+            "Apple",
+            "Onion",
+            "Garlic",
+            "Walnut",
+            "Dried cranberries",
+            "Maple syrup",
+            "Olive oil",
+            "Cinnamon",
+            "Nutmeg",
+            "Salt",
+            "Pepper"
+        ]
+    }
+]
